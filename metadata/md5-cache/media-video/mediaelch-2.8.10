@@ -4,10 +4,10 @@ DEPEND==dev-libs/quazip-0.9* dev-qt/qtconcurrent:5 dev-qt/qtmultimedia:5[widgets
 DESCRIPTION=Video metadata scraper
 EAPI=7
 HOMEPAGE=http://www.mediaelch.de/
-INHERIT=qmake-utils cmake cmake
-LICENSE=GPL-3
+INHERIT=qmake-utils cmake
+LICENSE=LGPL-3
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/Komet/MediaElch/archive/v2.8.10.tar.gz -> mediaelch-2.8.10.tar.gz
 _eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	flag-o-matic	c0964e43ba712cb933da5f65b958fa88	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	cmake	518e4c9a6a38dfd7afc54b6a7c5de3da
-_md5_=b571b51f20cba053d245c777a3c7096c
+_md5_=6529c5d2257ed95ace8b322c2e6f2903
