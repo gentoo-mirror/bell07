@@ -1,4 +1,4 @@
 dev-libs/quazip 0.9.1: Simple C++ wrapper over Gilles Vollant's ZIP/UNZIP package
 media-plugins/kodi-widevine 91.0.4472.106 91.0.4472.114: An adapter for playing DRM content
-media-plugins/rom-properties 1.7.3-r1 9999: This shell extension adds a few nice features to file browsers for managing video game ROM and disc images
+media-plugins/rom-properties 1.7.3-r1 1.8.2 9999: This shell extension adds a few nice features to file browsers for managing video game ROM and disc images
 media-video/mediaelch 2.8.6 2.8.12 9999: Video metadata scraper
