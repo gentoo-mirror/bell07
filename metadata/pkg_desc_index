@@ -1,5 +1,4 @@
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
-games-emulation/dosbox-x 0.83.24: Cross-platform DOS emulation package.
 media-libs/openglide-xtra 9999: Glide to OpenGL wrapper (Qemu-xtra version)
 media-video/mediaelch 2.8.14 2.8.16 9999: Video metadata scraper
 x11-misc/dock-hotplug 9999: External Display dock handler script
