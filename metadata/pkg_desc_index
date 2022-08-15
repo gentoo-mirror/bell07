@@ -1,4 +1,5 @@
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
 media-libs/openglide-xtra 9999: Glide to OpenGL wrapper (Qemu-xtra version)
 media-video/mediaelch 2.8.14 2.8.16 9999: Video metadata scraper
+x11-base/xorg-server 21.1.4.9999: X.Org X servers with modesetting tearfree patches
 x11-misc/dock-hotplug 9999: External Display dock handler script
