@@ -3,7 +3,7 @@ games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
 games-emulation/duckstation 20220708: Fast Sony PlayStation (PSX) emulator
 games-util/pegasus 9999: Graphical frontend for browsing your game library
 media-libs/openglide-xtra 9999: Glide to OpenGL wrapper (Qemu-xtra version)
-media-video/mediaelch 2.8.14 2.8.16 9999: Video metadata scraper
+media-video/mediaelch 2.8.16 2.8.18 9999: Video metadata scraper
 net-wireless/rtw88 9999: Newest Realtek rtlwifi codes for RTL8822BE, RTL8822CE, RTL8821CE, and RTL8723DE
 x11-base/xorg-server 21.1.4.9999: X.Org X servers with modesetting tearfree patches
 x11-misc/dock-hotplug 9999: External Display dock handler script
