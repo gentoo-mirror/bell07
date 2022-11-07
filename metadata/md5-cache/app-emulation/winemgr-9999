@@ -9,5 +9,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=virtual/wine app-emulation/winetricks app-emulation/dxvk app-emulation/vkd3d-proton
 SLOT=0
-_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=1ce0bd3befcf3b303e7d5c8f94d4b0b0
