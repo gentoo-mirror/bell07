@@ -1,4 +1,5 @@
 app-emulation/winemgr 9999: Simple Wine manager for Gentoo
+app-misc/my-world-meta 0: My favorite software preselection - meta package
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
 games-emulation/duckstation 20220708: Fast Sony PlayStation (PSX) emulator
 games-util/pegasus 9999: Graphical frontend for browsing your game library
