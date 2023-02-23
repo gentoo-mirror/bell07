@@ -1,0 +1,8 @@
+DEFINED_PHASES=install
+DESCRIPTION=Kernel configuration snippets (eselect version)
+EAPI=7
+HOMEPAGE=https://github.com/bell07/bashscripts-kernel_cfg
+KEYWORDS=amd64
+SLOT=0
+SRC_URI=https://github.com/bell07/bashscripts-kernel_cfg/archive/485c34fafc4409f84f8af6ba03d69187b1636e6c.zip -> kernel-cfg-20230222.zip
+_md5_=9912d391ccbc9ff9d29fcb3e47606361

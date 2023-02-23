@@ -6,4 +6,5 @@ games-util/pegasus 9999: Graphical frontend for browsing your game library
 media-libs/openglide-xtra 9999: Glide to OpenGL wrapper (Qemu-xtra version)
 media-video/mediaelch 2.8.18 2.10.0 9999: Video metadata scraper
 net-wireless/rtw88 9999: Newest Realtek rtlwifi codes for RTL8822BE, RTL8822CE, RTL8821CE, and RTL8723DE
+sys-kernel/kernel-cfg 20230222: Kernel configuration snippets (eselect version)
 x11-misc/dock-hotplug 9999: External Display dock handler script
