@@ -8,5 +8,5 @@ media-video/mediaelch 2.8.18 2.10.0 9999: Video metadata scraper
 net-wireless/rtl88x2bu 9999: Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets v5.13.1 (Realtek) (20210702) plus updates from the Linux community
 net-wireless/rtw88 9999: Newest Realtek wifi 5 codes for RTW8822BE, RTW8822CE, RTW8821CE, and RTW8723DE (All PCIe) RTW8822BU, RTW8822CU, RTW8821CU, and RTW88723DU (All USB) RTW8822BS, RTW8822CS, and RTW8821CS (All SDIO)
 sys-apps/system-chroot 20230507: Prepare a system root to be mounted in chroot. Do all submounts like sys or proc.
-sys-kernel/kernel-cfg 20230427-r1 20230510: Kernel configuration snippets (eselect version)
+sys-kernel/kernel-cfg 20230510 20230609: Kernel configuration snippets (eselect version)
 x11-misc/dock-hotplug 9999: External Display dock handler script

@@ -5,5 +5,5 @@ HOMEPAGE=https://github.com/bell07/bashscripts-kernel_cfg
 KEYWORDS=amd64
 RESTRICT=mirror
 SLOT=0
-SRC_URI=https://github.com/bell07/bashscripts-kernel_cfg/archive/59c6ca3ed1ca775e0ceaaf8598f29e0980897d55.zip -> kernel-cfg-20230427.zip
-_md5_=915f6e8c9540dadd00a8c2d5d28c57f2
+SRC_URI=https://github.com/bell07/bashscripts-kernel_cfg/archive/5a9cf6fce2d87b2c7a6760614f845079ea0f0852.zip -> kernel-cfg-20230609.zip
+_md5_=57754e56188d75ae4c5051c71451bb23
