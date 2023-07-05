@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Simple Wine manager for Gentoo
+EAPI=7
+HOMEPAGE=https://gitlab.com/bell07/winemgr
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=virtual/wine app-emulation/winetricks app-emulation/dxvk app-emulation/vkd3d-proton
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://gitlab.com/bell07/winemgr/-/archive/28740f8d15eb2bcccc5e7e65915cddf57f103da8/winemgr-28740f8d15eb2bcccc5e7e65915cddf57f103da8.zip -> winemgr-20230705.zip
+_md5_=94e86254cba8eb17791de0c630e73f23
