@@ -2,7 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-misc/my-gentoo-config:limits - Set more relaxed limits for users
+app-misc/my-gentoo-config:gaming - Set more relaxed limits for gaming optimizations
 app-misc/my-gentoo-config:portage - Some portage files that cannot be placed in profile
 app-misc/my-world-meta:admin - Install system and network analysis, monitoring and recovery tools
 app-misc/my-world-meta:bell07-config - Additional config files by bell07
