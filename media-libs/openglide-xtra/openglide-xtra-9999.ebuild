@@ -46,6 +46,7 @@ src_prepare() {
 
 multilib_src_configure() {
 	econf \
+		--target="${CHOST}"
 		--enable-shared \
 		--disable-sdltest \
 		$(use_enable sdl) \
