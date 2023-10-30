@@ -1,4 +1,4 @@
-# Copyright 1999-2022 Gentoo Authors
+# Copyright 1999-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -10,7 +10,7 @@ HOMEPAGE="http://openglide.sourceforge.net https://github.com/kjliew/qemu-xtra"
 
 LICENSE="LGPL-2.1"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64"
 IUSE="+sdl static-libs"
 
 RDEPEND="virtual/glu[${MULTILIB_USEDEP}]
@@ -46,7 +46,6 @@ src_prepare() {
 
 multilib_src_configure() {
 	econf \
-		--target="${CHOST}" \
 		--enable-shared \
 		--disable-sdltest \
 		$(use_enable sdl) \
