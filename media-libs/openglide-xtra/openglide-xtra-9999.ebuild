@@ -10,7 +10,7 @@ HOMEPAGE="http://openglide.sourceforge.net https://github.com/kjliew/qemu-xtra"
 
 LICENSE="LGPL-2.1"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS=""
 IUSE="+sdl static-libs"
 
 RDEPEND="virtual/glu[${MULTILIB_USEDEP}]
