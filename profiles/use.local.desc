@@ -6,7 +6,9 @@ app-misc/my-gentoo-config:gaming - Set more relaxed limits for gaming optimizati
 app-misc/my-gentoo-config:portage - Some portage files that cannot be placed in profile
 app-misc/my-world-meta:admin - Install system and network analysis, monitoring and recovery tools
 app-misc/my-world-meta:bell07-config - Additional config files by bell07
-app-misc/my-world-meta:desktop - Install office desktop workstation software
+app-misc/my-world-meta:mediacenter - Install KODI media center
+app-misc/my-world-meta:minimal - Minimal installation, skip some packages
 app-misc/my-world-meta:multiuser - No autologin because multiple user in system
-app-misc/my-world-meta:pulseaudio - System with audio output
-app-misc/my-world-meta:xfce - Use XFCE as window manager
+app-misc/my-world-meta:wayland - Use Wayland/Wayfire desktop
+app-misc/my-world-meta:workstation - Install office desktop workstation software
+app-misc/my-world-meta:xfce - Use XFCE desktopr
