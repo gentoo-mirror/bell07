@@ -12,3 +12,10 @@ app-misc/my-world-meta:multiuser - No autologin because multiple user in system
 app-misc/my-world-meta:wayland - Use Wayland/Wayfire desktop
 app-misc/my-world-meta:workstation - Install office desktop workstation software
 app-misc/my-world-meta:xfce - Use XFCE desktopr
+dev-games/cegui:devil - Build the DevIL based ImageCodec module
+dev-games/cegui:freeimage - Build the FreeImage based ImageCodec module
+dev-games/cegui:irrlicht - Enable the Irrlicht renderer
+dev-games/cegui:ogre - Enable the OGRE renderer
+dev-games/cegui:tinyxml - Enable the Tiny XML parser module
+dev-games/cegui:xerces-c - Enable the Xerces-C++ XML parser module
+dev-games/cegui:zip - Enable the Minizip resource provider
