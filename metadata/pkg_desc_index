@@ -8,7 +8,6 @@ games-util/pegasus 9999: Graphical frontend for browsing your game library
 games-util/skyscraper 3.7.7: A powerful and versatile yet easy to use game scraper
 gui-wm/wayfire 9999: compiz like 3D wayland compositor
 media-libs/openglide-xtra 9999 9999-r1: Glide to OpenGL wrapper (Qemu-xtra version)
-media-video/mediaelch 2.10.2 2.10.4 9999: Video metadata scraper
 net-wireless/rtl88x2bu 9999: Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets v5.13.1 (Realtek) (20210702) plus updates from the Linux community
 net-wireless/rtw88 9999: Newest Realtek wifi 5 codes for RTW8822BE, RTW8822CE, RTW8821CE, and RTW8723DE (All PCIe) RTW8822BU, RTW8822CU, RTW8821CU, and RTW88723DU (All USB) RTW8822BS, RTW8822CS, and RTW8821CS (All SDIO)
 sys-apps/system-chroot 20230507 20230705: Prepare a system root to be mounted in chroot. Do all submounts like sys or proc.
