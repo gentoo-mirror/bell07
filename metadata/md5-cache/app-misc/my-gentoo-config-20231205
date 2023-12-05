@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=My configuration files with preferred settings
+EAPI=7
+HOMEPAGE=https://gitlab.com/bell07/my-gentoo-config
+IUSE=gaming +portage wayland xfce X l10n_de
+KEYWORDS=amd64 arm64
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://gitlab.com/bell07/my-gentoo-config/-/archive/4a3dffc8ee1940340119eeb39c7276d8698905a3/my-gentoo-config-4a3dffc8ee1940340119eeb39c7276d8698905a3.zip -> my-gentoo-config-20231205.zip
+_md5_=d7d67a82bdfa023e92c6cf8990d67674
