@@ -9,5 +9,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=!app-eselect/eselect-nintendo-switch-dock-handler app-admin/sudo x11-apps/xrandr media-sound/pulseaudio
 SLOT=0
-_eclasses_=git-r3	5133e393e8717a3a093660f990801dc1
+_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
 _md5_=ee5c3da016cf1596c3ad2f697ace508d
