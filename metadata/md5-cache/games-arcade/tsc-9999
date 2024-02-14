@@ -1,14 +1,15 @@
 BDEPEND=sys-devel/bison dev-lang/ruby >=dev-vcs/git-1.8.2.1[curl] app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst postrm prepare test unpack
-DEPEND=media-libs/libsfml dev-games/cegui[opengl,devil] media-libs/libpng dev-libs/libpcre dev-cpp/libxmlpp:2.6 dev-libs/boost
+DEPEND=media-libs/libsfml <dev-games/cegui-0.9[opengl,devil] expat? ( dev-games/cegui[expat] ) !expat? ( dev-games/cegui[xml] ) media-libs/libpng dev-libs/libpcre dev-cpp/libxmlpp:2.6 dev-libs/boost
 DESCRIPTION=The Secret Chronicles of Dr. M.
 EAPI=7
 HOMEPAGE=https://secretchronicles.org/
 INHERIT=git-r3 cmake
+IUSE=+expat
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PROPERTIES=live
-RDEPEND=media-libs/libsfml dev-games/cegui[opengl,devil] media-libs/libpng dev-libs/libpcre dev-cpp/libxmlpp:2.6
+RDEPEND=media-libs/libsfml <dev-games/cegui-0.9[opengl,devil] expat? ( dev-games/cegui[expat] ) !expat? ( dev-games/cegui[xml] ) media-libs/libpng dev-libs/libpcre dev-cpp/libxmlpp:2.6
 SLOT=0
 _eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	c7c9a62d6232cac66d4ea32d575c3e7c
-_md5_=eb9471ffb73cb9b3d0650019c0765055
+_md5_=a92a618bf4c065b49764d61dff40dcb0
