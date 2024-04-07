@@ -1,6 +1,6 @@
 app-benchmarks/glmark2 2023.01: glmark2 is an OpenGL 2.0 and ES 2.0 benchmark
 app-emulation/winemgr 20230705: Simple Wine manager for Gentoo
-app-misc/my-gentoo-config 20240116 20240310: My configuration files with preferred settings
+app-misc/my-gentoo-config 20240310 20240407: My configuration files with preferred settings
 app-misc/my-world-meta 0: My favorite software preselection - meta package
 dev-games/cegui 0.8.7-r101 0.8.9999 9999: Crazy Eddie's GUI System
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
