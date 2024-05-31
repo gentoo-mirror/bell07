@@ -11,5 +11,5 @@ net-wireless/rtl88x2bu 9999: Driver for USB WiFi Adapters that are based on the 
 net-wireless/rtw88 9999: Newest Realtek wifi 5 codes for RTW8822BE, RTW8822CE, RTW8821CE, and RTW8723DE (All PCIe) RTW8822BU, RTW8822CU, RTW8821CU, and RTW88723DU (All USB) RTW8822BS, RTW8822CS, and RTW8821CS (All SDIO)
 sys-apps/system-chroot 20230507 20230705: Prepare a system root to be mounted in chroot. Do all submounts like sys or proc.
 sys-firmware/jupiter-hw-support 9999: Valve Steam Deck firmware tools (Flash does not work yet)
-sys-kernel/kernel-cfg 20231105 20240122: Kernel configuration snippets (eselect version)
+sys-kernel/kernel-cfg 20240122 20240531: Kernel configuration snippets (eselect version)
 x11-misc/dock-hotplug 9999: External Display dock handler script
