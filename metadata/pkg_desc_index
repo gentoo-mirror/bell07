@@ -4,7 +4,7 @@ app-misc/my-gentoo-config 20240310 20240407: My configuration files with preferr
 app-misc/my-world-meta 0: My favorite software preselection - meta package
 dev-games/cegui 0.8.7-r101 0.8.9999 9999: Crazy Eddie's GUI System
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
-games-util/opengamepadui-bin 0.30.5 0.33.1: Game launcher and overlay designed with a gamepad native experience in mind.
+games-util/opengamepadui-bin 0.33.1 0.34.1: Game launcher and overlay designed with a gamepad native experience in mind.
 games-util/skyscraper 3.7.7: A powerful and versatile yet easy to use game scraper
 media-libs/openglide-xtra 9999-r1: Glide to OpenGL wrapper (Qemu-xtra version)
 net-wireless/rtl88x2bu 9999: Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets v5.13.1 (Realtek) (20210702) plus updates from the Linux community
