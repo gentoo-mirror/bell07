@@ -6,5 +6,5 @@ IUSE=binary gaming +portage wayland xfce X l10n_de
 KEYWORDS=amd64 arm64
 RESTRICT=mirror
 SLOT=0
-SRC_URI=https://gitlab.com/bell07/my-gentoo-config/-/archive/7463d63b050a56fdc04ae27712c5b35e8fbd19c4/my-gentoo-config-7463d63b050a56fdc04ae27712c5b35e8fbd19c4.zip -> my-gentoo-config-20240310.zip
-_md5_=d53d69265a44e497e12ec4d87b430c87
+SRC_URI=https://gitlab.com/bell07/my-gentoo-config/-/archive/1fb3d6094995e76e529dd192503e139dec47f63a/my-gentoo-config-1fb3d6094995e76e529dd192503e139dec47f63a.zip -> my-gentoo-config-20241105.zip
+_md5_=0715322045b4dec32f582b439b220841
