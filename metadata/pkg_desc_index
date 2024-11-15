@@ -5,6 +5,7 @@ app-misc/my-gentoo-config 20240407 20241105: My configuration files with preferr
 app-misc/my-world-meta 0: My favorite software preselection - meta package
 dev-games/cegui 0.8.7-r101 0.8.9999 9999: Crazy Eddie's GUI System
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
+games-util/lutris-ui 20241115: Simple pygame based Lutris frontend
 games-util/opengamepadui-bin 0.33.1 0.34.1: Game launcher and overlay designed with a gamepad native experience in mind.
 games-util/skyscraper 3.7.7: A powerful and versatile yet easy to use game scraper
 media-libs/openglide-xtra 9999-r1: Glide to OpenGL wrapper (Qemu-xtra version)

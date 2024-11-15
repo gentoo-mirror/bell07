@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst postrm preinst setup
+DESCRIPTION=Simple pygame based Lutris frontend
+EAPI=8
+HOMEPAGE=https://github.com/bell07/lutris-ui
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=python-single-r1 xdg desktop
+IUSE=python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+KEYWORDS=amd64
+LICENSE=GPL-3+
+RDEPEND=python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_10? ( games-util/lutris[python_single_target_python3_10(-)] dev-python/psutil[python_targets_python3_10(-)] dev-python/pygame[python_targets_python3_10(-)] dev-python/pyxdg[python_targets_python3_10(-)] ) python_single_target_python3_11? ( games-util/lutris[python_single_target_python3_11(-)] dev-python/psutil[python_targets_python3_11(-)] dev-python/pygame[python_targets_python3_11(-)] dev-python/pyxdg[python_targets_python3_11(-)] ) python_single_target_python3_12? ( games-util/lutris[python_single_target_python3_12(-)] dev-python/psutil[python_targets_python3_12(-)] dev-python/pygame[python_targets_python3_12(-)] dev-python/pyxdg[python_targets_python3_12(-)] ) python_single_target_python3_13? ( games-util/lutris[python_single_target_python3_13(-)] dev-python/psutil[python_targets_python3_13(-)] dev-python/pygame[python_targets_python3_13(-)] dev-python/pyxdg[python_targets_python3_13(-)] )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/bell07/lutris-ui/archive/bf02016372c3cef11593997d5f184717f6b8ea13.zip -> lutris-ui-20241115.zip
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	python-utils-r1	2fee95c11e5f883024588d4837db6802	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
+_md5_=0d944d0e80a09e3b290b478a88d866b7
