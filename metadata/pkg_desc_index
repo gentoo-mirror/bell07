@@ -14,5 +14,5 @@ net-wireless/rtw88 9999: Newest Realtek wifi 5 codes for RTW8822BE, RTW8822CE, R
 sys-apps/system-chroot 20230507 20230705: Prepare a system root to be mounted in chroot. Do all submounts like sys or proc.
 sys-firmware/jupiter-hw-support 9999: Valve Steam Deck firmware tools (Flash does not work yet)
 sys-kernel/kernel-cfg 20241104 20241114: Kernel configuration snippets (eselect version)
-sys-kernel/neptune-sources 6.5.0: The Kernel Sources for Valve SteamDeck
+sys-kernel/neptune-sources 6.5.0 6.8.12: The Kernel Sources for Valve SteamDeck
 x11-misc/dock-hotplug 9999: External Display dock handler script
