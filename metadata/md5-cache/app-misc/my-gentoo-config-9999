@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=portage? ( app-portage/eix app-portage/smart-live-rebuild )
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=d4312374d4cd840d9d2faef5689c8e34
+_md5_=aad7274ee9176bafbf4d19b884f0185c
