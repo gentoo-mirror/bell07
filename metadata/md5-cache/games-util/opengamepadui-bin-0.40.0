@@ -12,5 +12,5 @@ RDEPEND=dev-libs/libevdev x11-libs/libX11 x11-libs/libXau x11-libs/libxcb x11-li
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://github.com/ShadowBlip/OpenGamepadUI/releases/download/v0.40.0/opengamepadui.tar.gz -> opengamepadui-bin-0.40.0.tar.gz
-_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	udev	f3d9a4376ebd22131726a68e1a0a058f	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	udev	f3d9a4376ebd22131726a68e1a0a058f	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=98e4959154ec1794e9fef80dcb072fc5
