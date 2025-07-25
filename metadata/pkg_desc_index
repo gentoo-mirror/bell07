@@ -1,4 +1,4 @@
-app-accessibility/onboard 1.4.2.1-r2 1.4.2.2: An onscreen keyboard useful for tablet PC users and for mobility impaired users
+app-accessibility/onboard 1.4.2.2 1.4.3_p7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
 app-benchmarks/glmark2 2023.01: glmark2 is an OpenGL 2.0 and ES 2.0 benchmark
 app-benchmarks/vkmark 9999: vkmark is an extensible Vulkan benchmarking suite with targeted, configurable scenes.
 app-emulation/winemgr 20230705: Simple Wine manager for Gentoo
@@ -6,9 +6,9 @@ app-misc/my-gentoo-config 9999: My configuration files with preferred settings
 app-misc/my-world-meta 0: My favorite software preselection - meta package
 dev-games/cegui 0.8.7-r101 0.8.9999 9999: Crazy Eddie's GUI System
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
-games-util/inputplumber 0.59.0 0.59.2: Open source input manager for Linux
+games-util/inputplumber 0.59.2 0.60.7: Open source input manager for Linux
 games-util/lutris-ui 9999: Simple pygame based Lutris frontend
-games-util/opengamepadui-bin 0.35.7 0.40.0: Game launcher and overlay designed with a gamepad native experience in mind.
+games-util/opengamepadui-bin 0.40.0 0.40.4: Game launcher and overlay designed with a gamepad native experience in mind.
 games-util/skyscraper 3.7.7: A powerful and versatile yet easy to use game scraper
 media-libs/openglide-xtra 9999-r1: Glide to OpenGL wrapper (Qemu-xtra version)
 net-wireless/rtl88x2bu 9999: Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets v5.13.1 (Realtek) (20210702) plus updates from the Linux community
