@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DESCRIPTION=Omnissa Horizon Client for Linux
+EAPI=8
+HOMEPAGE=https://www.omnissa.com/products/horizon-8/
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=xdg
+KEYWORDS=~amd64
+LICENSE=omnissa
+RDEPEND=media-libs/libva-compat[X] x11-libs/libvdpau
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://download3.omnissa.com/software/CART26FQ2_LIN_2506_TARBALL/Omnissa-Horizon-Client-Linux-2506-8.16.0-16536624989.tar.gz
+_eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_md5_=c24677cfd4dab66667a3bc728f75049b
