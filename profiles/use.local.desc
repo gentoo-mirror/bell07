@@ -2,6 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-accessibility/wvkbd:deskintl - Build wvkbd-deskintl, the desktop international layout variant
+app-accessibility/wvkbd:mobintl - Build wvkbd-mobintl, the mobile international layout variant (default)
 app-misc/my-gentoo-config:binary - Setup official binhost for portage
 app-misc/my-gentoo-config:gaming - Set more relaxed limits for gaming optimizations
 app-misc/my-gentoo-config:portage - Some portage files that cannot be placed in profile
