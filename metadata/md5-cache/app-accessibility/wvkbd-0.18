@@ -1,0 +1,13 @@
+DEFINED_PHASES=prepare
+DEPEND=dev-libs/wayland x11-libs/cairo x11-libs/libxkbcommon x11-libs/pango app-text/scdoc
+DESCRIPTION=On-screen keyboard for wlroots that sucks less
+EAPI=8
+HOMEPAGE=https://github.com/jjsullivan5196/wvkbd
+IUSE=deskintl
+KEYWORDS=amd64 arm64
+LICENSE=MIT GPL-3+
+RDEPEND=dev-libs/wayland x11-libs/cairo x11-libs/libxkbcommon x11-libs/pango
+RESTRICT=mirror test
+SLOT=0
+SRC_URI=https://github.com/jjsullivan5196/wvkbd/archive/refs/tags/v0.18.tar.gz -> wvkbd-.tar.gz
+_md5_=ada7f509497c49a0c9dd56c08bb0f559

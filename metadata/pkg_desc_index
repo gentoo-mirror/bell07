@@ -1,4 +1,5 @@
 app-accessibility/onboard 1.4.2.2 1.4.3_p7: An onscreen keyboard useful for tablet PC users and for mobility impaired users
+app-accessibility/wvkbd 0.18: On-screen keyboard for wlroots that sucks less
 app-benchmarks/glmark2 2023.01: glmark2 is an OpenGL 2.0 and ES 2.0 benchmark
 app-benchmarks/vkmark 9999: vkmark is an extensible Vulkan benchmarking suite with targeted, configurable scenes.
 app-emulation/winemgr 20230705: Simple Wine manager for Gentoo
