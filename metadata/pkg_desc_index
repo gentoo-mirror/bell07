@@ -7,7 +7,7 @@ app-misc/my-gentoo-config 9999: My configuration files with preferred settings
 app-misc/my-world-meta 0: My favorite software preselection - meta package
 dev-games/cegui 0.8.7-r101 0.8.9999 9999: Crazy Eddie's GUI System
 games-arcade/tsc 2.1.0 9999: The Secret Chronicles of Dr. M.
-games-util/inputplumber 0.63.0 0.63.1: Open source input manager for Linux
+games-util/inputplumber 0.63.1 0.64.0: Open source input manager for Linux
 games-util/lutris-ui 9999: Simple pygame based Lutris frontend
 games-util/opengamepadui-bin 0.40.4 0.41.0: Game launcher and overlay designed with a gamepad native experience in mind.
 games-util/pegasus 9999: Graphical frontend for browsing your game library
